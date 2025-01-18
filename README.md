@@ -1,2 +1,4 @@
-# indice_proyectos
-Repositorio que sirve de índice de proyectos
+# **Indice de Proyectos**
+## Proyectos Web
+## Proyectos IA
+  ### **Flappy Bird para aprendizaje por refuerzo**
