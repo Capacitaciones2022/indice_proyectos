@@ -9,4 +9,7 @@
 - ### **ChatBot con langchain **
   - [**Web - Frontend**](https://github.com/korderoman/chat_bot_frontend)
   - [**Web - Backend**](https://github.com/korderoman/chat_bot_backend_web)
-  - [**SDK - Backend**](https://github.com/korderoman/chat_bot_backend_sdk)   
+  - [**SDK - Backend**](https://github.com/korderoman/chat_bot_backend_sdk)
+ 
+- ### Apuntes de Machine Learning
+  - [**Perceptrón multicapa**](https://github.com/korderoman/machine_learning_notes/tree/main/modulo_1_fundamentos_de_redes_neuronales_profundas/implementacion_MLP_clasificacion_MNIST/perceptron_multicapa)   
