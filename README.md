@@ -13,4 +13,5 @@
  
 - ### Apuntes de Machine Learning
   - [**Perceptrón multicapa**](https://github.com/korderoman/machine_learning_notes/tree/main/modulo_1_fundamentos_de_redes_neuronales_profundas/implementacion_MLP_clasificacion_MNIST/perceptron_multicapa)
-  - [**Implementación de ResNet18**](https://github.com/korderoman/machine_learning_notes/tree/main/modulo_2_redes_convolucionales_y_generativas/resnet_18)  
+  - [**Implementación de ResNet18**](https://github.com/korderoman/machine_learning_notes/tree/main/modulo_2_redes_convolucionales_y_generativas/resnet_18)
+  - [**Implementación de Arquitectura YOLO**](https://github.com/korderoman/machine_learning_notes/tree/main/modulo_2_redes_convolucionales_y_generativas/yolo) 
