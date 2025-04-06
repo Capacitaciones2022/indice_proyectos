@@ -16,3 +16,4 @@
   - [**Implementación de ResNet18**](https://github.com/korderoman/machine_learning_notes/tree/main/modulo_2_redes_convolucionales_y_generativas/resnet_18)
   - [**Implementación de Arquitectura YOLO**](https://github.com/korderoman/machine_learning_notes/tree/main/modulo_2_redes_convolucionales_y_generativas/yolo)
   - [**Implementación de Arquitectura ViT**](https://github.com/korderoman/machine_learning_notes/tree/main/modulo_2_redes_convolucionales_y_generativas/vit)
+  - [**Implementación de Arquitectura Transformer**](https://github.com/korderoman/machine_learning_notes/tree/main/modulo_3_redes_recurrentes_modelos_basados_em_accion)
