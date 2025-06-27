@@ -21,4 +21,5 @@
   - [**Implementación de RAG con langChain y langGraph**](https://github.com/korderoman/machine_learning_notes/blob/main/modulo_4_langchain/tutorials_phase_3/langchain_rag_text.ipynb)
  
 - ### Apuntes de langGraph
-  - [**Workflow secuencial**](https://github.com/korderoman/workflows_langgraph/blob/main/prompting_chaining.ipynb) 
+  - [**Workflow secuencial**](https://github.com/korderoman/workflows_langgraph/blob/main/prompting_chaining.ipynb)
+  - [**Workflow paralelo**](https://github.com/korderoman/workflows_langgraph/blob/main/parallel.ipynb)
